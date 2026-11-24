@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f46876af3a2ee8541850e2f8563a4b7c, type: 3}
+  m_Name: MeasurementHudTexts
+  m_EditorClassIdentifier: Assembly-CSharp::MeasurementHudTexts
+  searchingSurface: Move your phone slowly to find a surface
+  placingA: Aim at the start point and press +
+  placingB: Aim at the end point and press +
+  locked: Press + to start a new measurement
